@@ -1,2 +1,3 @@
+include ':pluginapp'
 include ':app'
 rootProject.name = "HookPlugin"
